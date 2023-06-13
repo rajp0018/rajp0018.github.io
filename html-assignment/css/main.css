@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+header,footer {
+    background-color: aquamarine;
+}
+.site-title {
+    color: rgb(160, 103, 33);
+}
+#my-image {
+    box-shadow: 0px 0px 2px 1px black;
+}
+.my-hobbies {
+    list-style-type: square;
+}
+.my-hobbies :nth-child(odd) {
+    background-color: bisque;
+}
+
+.site-links {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    background-color: brown;
+    border: 2px solid blue;
+}
+
+a:hover {
+    background-color: blueviolet;
+}
