@@ -1,3 +1,4 @@
+/* added "*" to focus on each and every content*/
 *{
   box-sizing: border-box;
   margin: 0;
@@ -112,7 +113,7 @@ footer {
   justify-content: right;
   align-content: normal;
 }
-
+/* it focuses on contact tab situated with the story tab */
 .contact {
   padding-top: 9px;
   padding-right: 9px;
